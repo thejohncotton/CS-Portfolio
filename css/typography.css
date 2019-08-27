@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Alegreya+Sans|Merriweather|Merriweather+Sans|Nunito|Nunito+Sans|Quattrocento|Quattrocento+Sans|Roboto|Roboto+Mono|Roboto+Slab&display=swap');
+h1, li {
+    font-family: 'Nunito Sans';
+    text-transform: uppercase;
+}
+p {
+    font-family: 'Merriweather';
+}
+.button p {
+    font-family: 'Roboto';
+}

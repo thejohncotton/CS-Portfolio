@@ -6,5 +6,8 @@
     border: solid;
     border-width: 2px;
     border-color: #fff;
-    padding: 20px;
+    border-radius: 5px;
+}
+.jumbo h1 {
+    padding: 5px 60px;
 }
