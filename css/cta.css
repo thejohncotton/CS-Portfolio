@@ -1,0 +1,19 @@
+
+.cta {
+    margin-top: 20px;
+}
+.cta p {
+    color: #fff;
+}
+.button {
+    background: #fff;
+    padding: 5px;
+    text-align: center;
+}
+.button :hover {
+    cursor: pointer;
+}
+.button p {
+    font-size: 24px;
+    color: #000;
+}

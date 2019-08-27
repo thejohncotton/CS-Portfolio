@@ -1,0 +1,10 @@
+.jumbo h1 {
+    color: #fff;
+    font-size: 64px;
+}
+.jumbo {
+    border: solid;
+    border-width: 2px;
+    border-color: #fff;
+    padding: 20px;
+}
